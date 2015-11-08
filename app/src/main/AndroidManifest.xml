@@ -21,6 +21,14 @@
             android:name=".TapDemoActivity"
             android:label="@string/title_activity_tap_demo" >
         </activity>
+        <activity
+            android:name=".ListViewDemoActivity"
+            android:label="@string/title_activity_list_view_demo" >
+        </activity>
+        <activity
+            android:name=".ListViewCustomViewDemoActivity"
+            android:label="@string/title_activity_list_view_custom_view_demo" >
+        </activity>
     </application>
 
 </manifest>

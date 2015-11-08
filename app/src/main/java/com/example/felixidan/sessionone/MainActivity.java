@@ -43,6 +43,12 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void goToListsDemo(View view) {
+        Intent i = new Intent(this, ListViewDemoActivity.class);
+        startActivity(i);
+    }
 
+    public void goToCustomAdapterDemo(View view) {
+        Intent i = new Intent(this, ListViewCustomViewDemoActivity.class);
+        startActivity(i);
     }
 }

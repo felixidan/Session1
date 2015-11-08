@@ -18,4 +18,11 @@
             android:layout_height="wrap_content"
             android:onClick="goToListsDemo"
         />
+
+    <Button android:text="2nd Lists Demo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="goToCustomAdapterDemo"
+        />
+
 </LinearLayout>

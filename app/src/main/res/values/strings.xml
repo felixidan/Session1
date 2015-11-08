@@ -2,4 +2,6 @@
     <string name="app_name">SessionOne</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_tap_demo">TapDemo</string>
+    <string name="title_activity_list_view_demo">ListViewDemoActivity</string>
+    <string name="title_activity_list_view_custom_view_demo">ListViewCustomViewDemoActivity</string>
 </resources>
